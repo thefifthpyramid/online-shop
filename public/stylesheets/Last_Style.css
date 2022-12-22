@@ -17,3 +17,16 @@
 /*----------------------------------------*/
 /* Editing Code
 /*----------------------------------------*/
+.loginig{
+    margin-right: 30px;
+}
+.separetor:after{
+    position: absolute;
+    right: 100px;
+    top: 12px;
+    height: 22px;
+    width: 1px;
+    background: #000000;
+    opacity: 0.1;
+    content: "";
+}
